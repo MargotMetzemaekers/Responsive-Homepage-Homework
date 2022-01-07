@@ -11,4 +11,10 @@ p {
 
 .hero {
   background-color: #fafafa;
+  text-align: center;
+}
+
+.hero p {
+  font-family: "Playfair Display", serif;
+  font-size: 36;
 }
