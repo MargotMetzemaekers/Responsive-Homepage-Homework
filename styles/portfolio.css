@@ -1,3 +1,7 @@
+:root {
+  --branding-color: #c4c1e0;
+}
+
 h1 {
   color: black;
   font-family: "Playfair Display", serif;
@@ -31,7 +35,7 @@ p {
 }
 
 .btn-branding {
-  background: #c4c1e0;
+  background: var(--branding-color);
   border-radius: 4px;
   color: white;
   font-size: 18px;
