@@ -35,7 +35,7 @@ p {
 }
 
 .hero h2 {
-  font-family: "Poppins", sans-serif;
+  font-family: var(--default-font-family);
   font-weight: normal;
   font-size: 24px;
   line-height: 2;
@@ -64,7 +64,12 @@ p {
 }
 
 .about-section h1 {
-  font-family: 64px;
+  font-size: 64px;
+}
+
+.about-section h2 {
+  font-size: 18px;
+  font-family: var(--default-font-family);
 }
 
 @media (max-width: 960px) {
