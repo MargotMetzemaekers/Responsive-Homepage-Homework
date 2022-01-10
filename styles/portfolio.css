@@ -63,6 +63,10 @@ p {
   padding: 120px 60px;
 }
 
+.about-section h1 {
+  font-family: 64px;
+}
+
 @media (max-width: 960px) {
   h1 {
     font-size: 44px;
