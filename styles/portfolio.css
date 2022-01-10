@@ -101,4 +101,8 @@ p {
   .hero {
     padding: 80px 20;
   }
+
+  .about-section {
+    text-align: center;
+  }
 }
