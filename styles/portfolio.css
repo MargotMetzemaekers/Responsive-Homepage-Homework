@@ -66,6 +66,7 @@ p {
 .content-container {
   text-align: center;
   padding: 160px 20;
+  display: block;
 }
 
 .content-container h1 {
