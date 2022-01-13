@@ -21,6 +21,10 @@ p {
   line-height: 30px;
 }
 
+nav li {
+  display: inline;
+}
+
 .hero {
   background-color: #fafafa;
   text-align: center;
