@@ -22,8 +22,7 @@ p {
 }
 
 nav ul {
-  margin: 0;
-  padding: 0;
+  padding-right: 30px;
 }
 
 nav li {
