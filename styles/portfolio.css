@@ -31,6 +31,11 @@ nav li {
   list-style: none;
 }
 
+i {
+  height: 80px;
+  color: #ffb5b5;
+}
+
 .hero {
   background-color: #fafafa;
   text-align: center;
