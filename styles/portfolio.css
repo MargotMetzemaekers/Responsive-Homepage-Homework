@@ -31,12 +31,22 @@ nav li {
   display: inline;
   list-style: none;
   line-height: 40px;
+  margin-left: 10px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #407088;
+}
+
+nav a:hover {
+  color: #ffb5b5;
 }
 
 i {
-  width: 300px;
   color: #ffb5b5;
   padding-left: 50px;
+  margin: 10px;
   line-height: 40px;
 }
 
