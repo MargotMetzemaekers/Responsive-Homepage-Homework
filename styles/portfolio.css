@@ -29,10 +29,11 @@ nav ul {
 nav li {
   display: inline;
   list-style: none;
+  line-height: 40px;
 }
 
 i {
-  height: 80px;
+  max-width: 150px;
   color: #ffb5b5;
 }
 
