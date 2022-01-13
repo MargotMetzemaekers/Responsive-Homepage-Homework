@@ -41,6 +41,7 @@ nav a {
 
 nav a:hover {
   color: #ffb5b5;
+  transition: all 100ms ease-in-out;
 }
 
 i {
