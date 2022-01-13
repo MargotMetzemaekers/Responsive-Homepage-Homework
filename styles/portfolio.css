@@ -26,6 +26,8 @@ nav ul {
 }
 
 nav li {
+  font-size: 18px;
+  font-family: var(--default-font-family);
   display: inline;
   list-style: none;
   line-height: 40px;
@@ -35,6 +37,7 @@ i {
   width: 300px;
   color: #ffb5b5;
   padding-left: 50px;
+  line-height: 40px;
 }
 
 .hero {
