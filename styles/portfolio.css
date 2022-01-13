@@ -1,5 +1,6 @@
 :root {
   --branding-color: #c4c1e0;
+  --secondary-color: #ffb5b5;
   --heading-font-family: "Playfair Display", serif;
   --default-font-family: "Poppins", sans-serif;
 }
@@ -40,7 +41,7 @@ nav a {
 }
 
 nav a:hover {
-  color: #ffb5b5;
+  color: var(--secondary-color);
   transition: all 100ms ease-in-out;
 }
 
@@ -49,7 +50,7 @@ nav li.active a {
 }
 
 i {
-  color: #ffb5b5;
+  color: var(--secondary-color);
   padding-left: 50px;
   margin: 10px;
   line-height: 40px;
