@@ -18,6 +18,7 @@ h2 {
 
 p {
   font-family: var(--default-font-family);
+  text-align: center;
   font-weight: normal;
   font-size: 16px;
   line-height: 30px;
@@ -134,6 +135,11 @@ footer {
 
 .content {
   margin: 30px;
+}
+
+.shecodes-link {
+  color: #662eed;
+  text-decoration: none;
 }
 
 @media (max-width: 900px) {
