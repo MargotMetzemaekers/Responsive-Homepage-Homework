@@ -1,6 +1,7 @@
 :root {
   --branding-color: #c4c1e0;
   --secondary-color: #ffb5b5;
+  --icon-color: #5f5dbd;
   --heading-font-family: "Playfair Display", serif;
   --default-font-family: "Poppins", sans-serif;
 }
@@ -50,7 +51,7 @@ nav li.active a {
 }
 
 i {
-  color: var(--secondary-color);
+  color: var(--icon-color);
   padding-left: 50px;
   margin: 10px;
   line-height: 40px;
