@@ -47,6 +47,10 @@ nav a:hover {
   transition: all 100ms ease-in-out;
 }
 
+.weatherapp-link:hover {
+  color: var(--secondary-color);
+}
+
 nav li.active a {
   color: #c4c1e0;
 }
@@ -142,12 +146,21 @@ footer {
   text-decoration: none;
 }
 
+.weatherapp-link {
+  color: black;
+  text-decoration: none;
+}
+
 @media (max-width: 900px) {
   h1 {
     font-size: 44px;
   }
   h2 {
     font-size: 44px;
+  }
+
+  p {
+    font-size: 12px;
   }
   .project-description {
     padding: 0;
